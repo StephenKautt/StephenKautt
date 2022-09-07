@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephenKautt
-- 👀 I’m interested in Game Development as well as other Programming subsets
-- 🌱 I’m currently learning Computer Science 
+- 👀 I’m interested in Software Development for my future career
+- 🌱 I’m currently learning Computer Science at Missouri University of Science and Technology
 
 <!---
 StephenKautt/StephenKautt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
